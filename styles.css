@@ -1,0 +1,18 @@
+#canvas{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#end{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#text{
+	position: absolute;
+	top: 0;
+	left: 1040px;
+	
+}
