@@ -1,10 +1,10 @@
-var width = 80;
+var width = 60;
 var fps = 16;
 
 var canvas = document.getElementById('canvas');
 
-var scrW = 2000;
-var scrH = 2000;
+var scrW = 1500;
+var scrH = 1500;
 
 var cols = Math.floor(scrW / width);
 var rows = Math.floor(scrH / width);
